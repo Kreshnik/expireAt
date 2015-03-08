@@ -1,5 +1,5 @@
 {
-    "name": "expireAt",
+    "name": "expireat",
     "version" : "1.0.1",
     "title" : "expireAt",
     "ecosystem":"jquery",
