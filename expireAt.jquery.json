@@ -1,0 +1,27 @@
+{
+    "name": "expireAt",
+    "version" : "1.0.0",
+    "title" : "expireAt",
+    "author" : {
+    "name" : "Kreshnik Hasanaj",
+        "email" : "kreshnik.hasanaj@gmail.com",
+        "url" : "http://ninxha.com"
+    },
+    "description" : "expireAt is a plugin that helps you track html elements, that have to expire on a specific time.",
+    "licenses" : [
+        {
+            "type": "GPLv2",
+            "url": "http://www.gnu.org/licenses/gpl-2.0.html"
+        }
+    ],
+    "dependencies" : {
+        "jquery" : ">=1.7"
+    },
+    "keywords": [
+        "expire",
+        "jquery",
+        "expire at",
+        "time expiration",
+        "datetime"
+    ]
+}
