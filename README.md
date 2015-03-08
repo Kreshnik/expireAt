@@ -27,7 +27,7 @@ The plugins purpose is to help you indicate once an html element has to expire. 
 4. Call the plugin:
 
 	```javascript
-    var expireAt = $(".element").expireAt({
+    $(".element").expireAt({
 		interval: 60000, // Set an custom interval you want the plugin to iterate through the elements. The default is 60 seconds
 		callback: function(element){
 			console.warn('Expired:', element); // You can use this callback function to handle the expired element
