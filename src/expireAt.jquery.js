@@ -1,6 +1,6 @@
 /*
  *  jQuery expireAt  - v1.0.0
- *  expireAt is a plugin that helps you track html elements. That have expire on a specific time.
+ *  expireAt is a plugin that helps you track html elements, that have to expire on a specific time.
  *
  *  Made by Kreshnik Hasanaj
  */
