@@ -15,7 +15,7 @@ The plugins purpose is to help you indicate once an html element has to expire. 
 2. Include plugin's code:
 
 	```html
-	<script src="expireAt.jquery.min.js"></script>
+	<script src="jquery.expireAt.min.js"></script>
 	```
 
 3. Add the `data-expire-at` attribute with the expiration date to the elements you want to expire:
